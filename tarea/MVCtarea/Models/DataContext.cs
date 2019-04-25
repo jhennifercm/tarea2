@@ -8,7 +8,7 @@ namespace MVCtarea.Models
 {
     public class DataContext:DbContext
     {
-        public DataContext():base("DefaultConnection")
+        public DataContext():base("DefaultConnection3")
         {
                 
         }
